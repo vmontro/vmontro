@@ -7,7 +7,6 @@ Developer (Web - Android - Windows)
 * 🌍  I'm based in Santa Maria Vetere (Zona Alta), Andria, Apulia, Italy, Earth
 * ✉️  You can contact me at [enzo.monti12@gmail.com](mailto:enzo.monti12@gmail.com)
 * 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on Agenzia delle Entrate
 
 ### Skills
 
